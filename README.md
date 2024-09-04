@@ -17,8 +17,7 @@ This is a RESTful API for managing notes using Django and Django REST Framework 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/anantsaxena09/notes.git
     ```
 
 2. **Create and activate a virtual environment:**
