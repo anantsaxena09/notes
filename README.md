@@ -55,4 +55,4 @@ This is a RESTful API for managing notes using Django and Django REST Framework 
 - **GET** `/api/notes/` - List all notes
 - **GET** `/api/notes/{id}/` - Retrieve a note by ID
 - **PUT** `/api/notes/{id}/` - Update a note by ID
-- **GET** `/api/notes/query/` - Query notes by title substring
+- **GET** `/api/notes/query?title={title}` - Query notes by title substring
